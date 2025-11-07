@@ -1,0 +1,11 @@
+Name,Age,Roll Number,Department,GPA,Gender,Language,City,Salary,Experience,Performance Rating
+Javed,22,201,Computer Science,3.2,Male,Urdu,Karachi,45000,1,75
+Fabha,21,202,IT,3.5,Female,English,Lahore,50000,2,88
+Mehwish,23,203,Mathematics,2.9,Female,Punjabi,Islamabad,42000,1,65
+Rida,24,204,AI,3.8,Female,English,Peshawar,55000,3,92
+Qurratulain,25,205,Physics,3.1,Female,Urdu,Multan,48000,2,70
+Zunaira,20,206,Biology,3.0,Female,Pashto,Quetta,46000,1,68
+Anus,22,207,Software Engineering,2.7,Male,Sindhi,Rawalpindi,40000,0,60
+Ammad,21,208,Economics,3.6,Male,Urdu,Faisalabad,53000,2,85
+Rafay,24,209,Statistics,3.3,Male,Punjabi,Hyderabad,47000,1,77
+Muzna,23,210,Chemistry,3.4,Female,English,Sialkot,49000,2,80
